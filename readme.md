@@ -15,7 +15,7 @@ python main.py
 
 After creating preferences.json file in [src](./src) directory u can specify dataset (absolute) path:
 ```yaml
-tif_dir: "/home/deusenko/PycharmProjects/las-tif-postproc/src/tif_dir"
+tif_dir: "/home/TimurKilch/PycharmProjects/las-tif-postproc/src/tif_dir"
 ```
 
 Then u can run script:
