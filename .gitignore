@@ -1,0 +1,4 @@
+# Project exclude paths
+/venv/
+/src/preferences.json
+/src/tif_dir/
